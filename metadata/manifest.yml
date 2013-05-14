@@ -93,3 +93,4 @@ Install-Build-Required: false
 #Source-Url: http://github.com/wsun1/perlv2cart.git
 #Source-Url: https://github.com/wsun1/perlv2cart/archive/master.zip
 Source-Url: file:///root/perlv2cart/
+Source-Md5: de6b4b15421a53d4a0e44a7ad4754ca0
