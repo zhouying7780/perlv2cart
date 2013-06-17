@@ -75,6 +75,7 @@ Group-Overrides:
   - components:
     - perl-5.10
     - web_proxy
+    - wsun-perl-5.10
 Endpoints:
   - Private-IP-Name:   IP
     Private-Port-Name: PORT
