@@ -1,4 +1,4 @@
-me: perl
+Name: perl
 Cartridge-Short-Name: PERL
 Display-Name: Perl 5.10
 Description: "Perl is a general-purpose server-side scripting language originally designed for Web development to produce dynamic Web pages. Popular development frameworks include: CakePerl, Zend, Symfony, and Code Igniter."
@@ -7,7 +7,7 @@ License: "GPL v2"
 License-Url: http://dev.perl.org/licenses/
 Vendor: perl.org
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: wsun
+Cartridge-Vendor: wsuntest
 Categories:
   - service
   - perl
@@ -75,7 +75,7 @@ Group-Overrides:
   - components:
     - perl-5.10
     - web_proxy
-    - wsun-perl-5.10
+    - wsuntest-perl-5.10
 Endpoints:
   - Private-IP-Name:   IP
     Private-Port-Name: PORT
@@ -89,11 +89,3 @@ Endpoints:
         Backend:       ""
         Options:       { health: true }
 Install-Build-Required: false
-Source-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.tar.gz
-#Source-Url: https://github.com/wsun1/perlv2cart.git
-##Source-Url: git://github.com/wsun1/perlv2cart.git
-##Source-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.zip
-##Source-Url: file:///root/perlv2cart/
-##Source-Url: http://baidu.com
-##Source-Url: file:///root/perlv2cart/
-##Source-Md5: 1b2ac86a3ed20b9fabbc2d2d5385781c
