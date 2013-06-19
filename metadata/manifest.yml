@@ -1,4 +1,4 @@
-Name: perl
+me: perl
 Cartridge-Short-Name: PERL
 Display-Name: Perl 5.10
 Description: "Perl is a general-purpose server-side scripting language originally designed for Web development to produce dynamic Web pages. Popular development frameworks include: CakePerl, Zend, Symfony, and Code Igniter."
@@ -77,10 +77,10 @@ Group-Overrides:
     - web_proxy
     - wsun-perl-5.10
 Endpoints:
-   - Private-IP-Name:   IP
-     Private-Port-Name: PORT
-     Private-Port:      8080
-     Public-Port-Name:  PROXY_PORT
+  - Private-IP-Name:   IP
+    Private-Port-Name: PORT
+    Private-Port:      8080
+    Public-Port-Name:  PROXY_PORT
     Mappings:
       - Frontend:      ""
         Backend:       ""
@@ -91,9 +91,9 @@ Endpoints:
 Install-Build-Required: false
 Source-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.tar.gz
 #Source-Url: https://github.com/wsun1/perlv2cart.git
-#Source-Url: git://github.com/wsun1/perlv2cart.git
-#Source-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.zip
-#Source-Url: file:///root/perlv2cart/
-#Source-Url: http://baidu.com
-#Source-Url: file:///root/perlv2cart/
-#Source-Md5: 1b2ac86a3ed20b9fabbc2d2d5385781c
+##Source-Url: git://github.com/wsun1/perlv2cart.git
+##Source-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.zip
+##Source-Url: file:///root/perlv2cart/
+##Source-Url: http://baidu.com
+##Source-Url: file:///root/perlv2cart/
+##Source-Md5: 1b2ac86a3ed20b9fabbc2d2d5385781c
