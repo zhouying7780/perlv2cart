@@ -95,6 +95,6 @@ Source-Url: https://github.com/wsun1/perlv2cart.git
 ##Source-Url: https://github.com/wsun1/perlv2cart/raw/master/perlv2cart.zip
 ##Source-Url: file:///root/perlv2cart/
 #Source-Url: http://baidu.com
-Source-Url: file:///root/perlv2cart/
+#Source-Url: file:///root/perlv2cart/
 #Source-Url: git://github.com/test
-Source-Md5: test
+#Source-Md5: test
