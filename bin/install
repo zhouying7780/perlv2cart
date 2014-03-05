@@ -4,4 +4,4 @@
 ln -s /usr/lib64/httpd/modules $OPENSHIFT_PERL_DIR
 ln -s /etc/httpd/conf/magic $OPENSHIFT_PERL_DIR/etc/magic
 #export TEST=name
-echo "&#44592;&#51088"
+#echo "&#44592;&#51088"
