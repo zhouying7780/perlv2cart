@@ -91,7 +91,7 @@ Endpoints:
         Options:       { health: true , "ssl_to_gear": false }
 Install-Build-Required: false
 #Source-Url: https://github.com/wjiangjay/perlv2cart/raw/master/perlv2cart.tar.gz
-Source-Url: https://github.com/wjiangjay/perlv2cart/raw/master/erlv2cart.tar.gz
+Source-Url: https://github.com/openshift-qe/perlv2cart/raw/master/erlv2cart.tar.gz
 #Source-Url: https://github.com/wjiangjay/perlv2cart.git 
 #Source-Url: git://github.com/wjiangjay/perlv2cart.git
 #Source-Url: https://github.com/wjiangjay/perlv2cart/raw/master/perlv2cart.zip
